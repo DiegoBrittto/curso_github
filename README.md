@@ -1,2 +1,4 @@
 
-# Bem vindo ao Curso github
+# Bem vindo ao Curso github :)
+
+Descrição do meu README.
