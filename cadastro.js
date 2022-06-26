@@ -3,3 +3,9 @@ function singup(email){
 }
 
 //pegando um email e cadastrando
+
+function pegaemail(){
+    return 'Bem vindo ao sistema';
+}
+
+// Adicionando função de mensagem
