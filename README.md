@@ -1,4 +1,4 @@
 
 # Bem vindo ao Curso github :)
 
-Descrição do meu README.
+Repositorio criado para estudo do curso de **Git** e **GitHub**.
